@@ -1,3 +1,4 @@
+//IN THIS CODE I HAVE NOT TAKE THE INPUT FROM USER SO THE SIZE OF MATRIX IS KNOWN.
 package hello;
 
 public class Mat {
